@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\PlayerManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|d:\\project\\playermanager\\playermanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|solutionrelative:playermanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|d:\\project\\playermanager\\playermanager\\migrations\\20241103030440_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|solutionrelative:playermanager\\migrations\\20241103030440_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|d:\\project\\playermanager\\playermanager\\models\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|solutionrelative:playermanager\\models\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|d:\\project\\playermanager\\playermanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|solutionrelative:playermanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 117,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\PlayerManager\\PlayerManager\\appsettings.json",
+              "RelativeDocumentMoniker": "PlayerManager\\appsettings.json",
+              "ToolTip": "D:\\Project\\PlayerManager\\PlayerManager\\appsettings.json",
+              "RelativeToolTip": "PlayerManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T03:07:32.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241103030440_init.cs",
+              "DocumentMoniker": "D:\\Project\\PlayerManager\\PlayerManager\\Migrations\\20241103030440_init.cs",
+              "RelativeDocumentMoniker": "PlayerManager\\Migrations\\20241103030440_init.cs",
+              "ToolTip": "D:\\Project\\PlayerManager\\PlayerManager\\Migrations\\20241103030440_init.cs",
+              "RelativeToolTip": "PlayerManager\\Migrations\\20241103030440_init.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T03:04:40.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Project\\PlayerManager\\PlayerManager\\Models\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "PlayerManager\\Models\\Entities\\Player.cs",
+              "ToolTip": "D:\\Project\\PlayerManager\\PlayerManager\\Models\\Entities\\Player.cs",
+              "RelativeToolTip": "PlayerManager\\Models\\Entities\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T02:05:35.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Project\\PlayerManager\\PlayerManager\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PlayerManager\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Project\\PlayerManager\\PlayerManager\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PlayerManager\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T01:56:53.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
