@@ -1,0 +1,36 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<PlayerManager.Models.Entities.Player>
+
+<h1>Player</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>PlayerName</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Contact</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var player in Model)
+        {
+            <tr>
+                <td>@player.Id</td>
+                <td>@player.playerName</td>
+                <td>@player.Email</td>
+                <td>@player.PhoneNumber</td>
+                <td>
+                    <a>Edit</a>
+                </td>
+            </tr>
+             
+        }
+    </tbody>
+</table>

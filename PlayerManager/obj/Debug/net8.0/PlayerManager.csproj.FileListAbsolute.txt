@@ -140,3 +140,4 @@ D:\Project\PlayerManager\PlayerManager\bin\Debug\net8.0\runtimes\win\lib\net6.0\
 D:\Project\PlayerManager\PlayerManager\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Project\PlayerManager\PlayerManager\obj\Debug\net8.0\PlayerManager.csproj.AssemblyReference.cache
 D:\Project\PlayerManager\PlayerManager\obj\Debug\net8.0\PlayerMa.29410A53.Up2Date
+D:\Project\PlayerManager\PlayerManager\obj\Debug\net8.0\PlayerManager.sourcelink.json
