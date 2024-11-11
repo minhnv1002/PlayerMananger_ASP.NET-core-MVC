@@ -41,5 +41,13 @@ namespace PlayerManager.Controllers
             var player = await dbContext.players.ToListAsync();
             return View(player);
         }
+
+        [HttpGet]
+        public async Task<IActionResult> Edit(Guid Id)
+        {
+            var player = await dbContext.players.FindAsync(Id);
+
+            return View(player);
+        }
     }
 }

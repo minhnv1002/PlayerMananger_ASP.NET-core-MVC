@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\Project\\PlayerManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|d:\\project\\playermanager\\playermanager\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|solutionrelative:playermanager\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|d:\\project\\playermanager\\playermanager\\views\\player\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|solutionrelative:playermanager\\views\\player\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|d:\\project\\playermanager\\playermanager\\views\\player\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|solutionrelative:playermanager\\views\\player\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|d:\\project\\playermanager\\playermanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|solutionrelative:playermanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|d:\\project\\playermanager\\playermanager\\views\\player\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|solutionrelative:playermanager\\views\\player\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|d:\\project\\playermanager\\playermanager\\models\\addplayerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|solutionrelative:playermanager\\models\\addplayerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|d:\\project\\playermanager\\playermanager\\views\\player\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|solutionrelative:playermanager\\views\\player\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1384B21-04DB-4429-8625-77591F9CC74D}|PlayerManager\\PlayerManager.csproj|d:\\project\\playermanager\\playermanager\\migrations\\20241103030440_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Project\\PlayerManager\\PlayerManager\\Views\\Player\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PlayerManager\\Views\\Player\\Edit.cshtml",
+              "ToolTip": "D:\\Project\\PlayerManager\\PlayerManager\\Views\\Player\\Edit.cshtml",
+              "RelativeToolTip": "PlayerManager\\Views\\Player\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T08:31:20.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Project\\PlayerManager\\PlayerManager\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PlayerManager\\Views\\Shared\\_Layout.cshtml",
@@ -46,34 +55,7 @@
               "RelativeToolTip": "PlayerManager\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T03:27:46.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "D:\\Project\\PlayerManager\\PlayerManager\\Views\\Player\\List.cshtml",
-              "RelativeDocumentMoniker": "PlayerManager\\Views\\Player\\List.cshtml",
-              "ToolTip": "D:\\Project\\PlayerManager\\PlayerManager\\Views\\Player\\List.cshtml",
-              "RelativeToolTip": "PlayerManager\\Views\\Player\\List.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T03:16:01.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "D:\\Project\\PlayerManager\\PlayerManager\\Controllers\\PlayerController.cs",
-              "RelativeDocumentMoniker": "PlayerManager\\Controllers\\PlayerController.cs",
-              "ToolTip": "D:\\Project\\PlayerManager\\PlayerManager\\Controllers\\PlayerController.cs",
-              "RelativeToolTip": "PlayerManager\\Controllers\\PlayerController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAswCkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T02:58:02.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T03:27:46.845Z"
             },
             {
               "$type": "Document",
@@ -85,12 +67,11 @@
               "RelativeToolTip": "PlayerManager\\Models\\AddPlayerViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T02:45:51.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T02:45:51.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "20241103030440_init.cs",
               "DocumentMoniker": "D:\\Project\\PlayerManager\\PlayerManager\\Migrations\\20241103030440_init.cs",
               "RelativeDocumentMoniker": "PlayerManager\\Migrations\\20241103030440_init.cs",
@@ -102,15 +83,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Add.cshtml",
               "DocumentMoniker": "D:\\Project\\PlayerManager\\PlayerManager\\Views\\Player\\Add.cshtml",
               "RelativeDocumentMoniker": "PlayerManager\\Views\\Player\\Add.cshtml",
               "ToolTip": "D:\\Project\\PlayerManager\\PlayerManager\\Views\\Player\\Add.cshtml",
               "RelativeToolTip": "PlayerManager\\Views\\Player\\Add.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBsAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T02:43:36.367Z"
+              "WhenOpened": "2024-11-06T02:43:36.367Z",
+              "EditorCaption": ""
             }
           ]
         }

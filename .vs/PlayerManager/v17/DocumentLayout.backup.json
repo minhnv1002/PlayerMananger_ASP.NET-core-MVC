@@ -46,8 +46,7 @@
               "RelativeToolTip": "PlayerManager\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T03:27:46.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T03:27:46.845Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "PlayerManager\\Views\\Player\\List.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T03:16:01.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T03:16:01.108Z"
             },
             {
               "$type": "Document",
@@ -70,7 +68,7 @@
               "RelativeDocumentMoniker": "PlayerManager\\Controllers\\PlayerController.cs",
               "ToolTip": "D:\\Project\\PlayerManager\\PlayerManager\\Controllers\\PlayerController.cs",
               "RelativeToolTip": "PlayerManager\\Controllers\\PlayerController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAswCoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswCkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T02:58:02.26Z",
               "EditorCaption": ""
@@ -85,8 +83,7 @@
               "RelativeToolTip": "PlayerManager\\Models\\AddPlayerViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T02:45:51.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T02:45:51.092Z"
             },
             {
               "$type": "Document",
