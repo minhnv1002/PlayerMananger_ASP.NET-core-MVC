@@ -1,4 +1,6 @@
-﻿namespace PlayerManager.Models.Entities
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace PlayerManager.Models.Entities
 {
     public class Player
     {
@@ -7,6 +9,12 @@
 
         public string Email { get; set; }
         public string PhoneNumber { get; set; }
+
+        [Required(ErrorMessage ="Username is required")]
+        public string UserName { get; set; }
+
+        [Required(ErrorMessage = "Password is required")]
+        public string Password { get; set; }
         public bool Contact { get; set; }
     }
 }

@@ -49,5 +49,34 @@ namespace PlayerManager.Controllers
 
             return View(player);
         }
+
+        [HttpPost]
+        public async Task<IActionResult> Edit(Player viewModel)
+        {
+            var player = await dbContext.players.FindAsync(viewModel.Id);
+            if (player is not null)
+            {
+                player.playerName = viewModel.playerName;
+                player.Email = viewModel.Email;
+                player.PhoneNumber = viewModel.PhoneNumber;
+                player.Contact = viewModel.Contact;
+                await dbContext.SaveChangesAsync();
+            }
+            return RedirectToAction("List", "Player");
+        }
+
+
+        [HttpPost]
+        public async Task<IActionResult> Delete(Player viewModel)
+        {
+            var player = await dbContext.players.AsNoTracking().FirstOrDefaultAsync(x => x.Id == viewModel.Id);
+
+            if (player is not null)
+            {
+                dbContext.players.Remove(player);
+                await dbContext.SaveChangesAsync();
+            }
+            return RedirectToAction("List", "Player");
+        }
     }
 }
